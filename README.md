@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Dovy</h1>
-<h3 align="center">System Analyst & Eng. Computer🌟.</h3>
+<h3 align="center">System Analyst & Computer Engineer🌟.</h3>
 
 <br>
 
